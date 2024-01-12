@@ -10,4 +10,6 @@ public class BootjpaApplication {
         SpringApplication.run(BootjpaApplication.class, args);
     }
 
+    int i= 8;
+
 }
