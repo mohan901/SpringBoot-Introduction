@@ -9,6 +9,6 @@ public class BootjpaApplication {
     public static void main(String[] args) {
         SpringApplication.run(BootjpaApplication.class, args);
     }
-
-    System.out.println("Hi")
+    int i= 8;
+    System.out.println("Hi");
 }
